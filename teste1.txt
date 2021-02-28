@@ -1,0 +1,17 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç 9852-236F
+
+ Pasta de C:\Users\User\repositorio\poo-uni7
+
+28/02/2021  18:19    <DIR>          .
+28/02/2021  18:19    <DIR>          ..
+28/02/2021  18:07                 9 .gitignore
+28/02/2021  18:07                29 .replit
+28/02/2021  18:07    <DIR>          diagramas
+28/02/2021  18:07    <DIR>          exercicio1
+28/02/2021  18:07    <DIR>          exercicio2
+28/02/2021  18:07    <DIR>          exercicio3
+28/02/2021  18:19                 0 teste1.txt
+28/02/2021  18:19               654 teste2.txt
+               4 arquivo(s)            692 bytes
+               6 pasta(s)   102.637.973.504 bytes dispon°veis
